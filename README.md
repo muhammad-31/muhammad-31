@@ -1,6 +1,6 @@
 # Muhammad Bin Amir
 
-**DevOps & Cloud Engineer · Certified Kubernetes Administrator (CKA)**
+**DevOps & Cloud Engineer · Certified Kubernetes Administrator (CKA) · Microsoft Certified: DevOps Engineer Expert (AZ-400)**
 
 I build and run production infrastructure for healthcare and banking teams:
 AWS and Terraform, Kubernetes with GitOps, CI/CD pipelines that scan every
@@ -15,6 +15,11 @@ change before it ships, and monitoring that alerts on what users actually feel.
 | [k8s-observability-stack](https://github.com/muhammad-31/k8s-observability-stack) | Prometheus, Alertmanager, Grafana, Loki and Alloy. SLO burn-rate alerts with promtool tests, tested alert routing, runbooks, dashboards as code. |
 | [ansible-docker-host](https://github.com/muhammad-31/ansible-docker-host) | Ansible roles that turn a fresh Ubuntu server into a hardened Docker host with Nginx, Let's Encrypt and restic backups. Molecule-tested and idempotent. |
 | [devsecops-eks-blog-platform](https://github.com/muhammad-31/devsecops-eks-blog-platform) | Full-stack app on EKS Auto Mode with a gated DevSecOps pipeline (ESLint, npm audit, Checkov, Hadolint, Trivy) and Argo CD. |
+
+## Certifications
+
+- **Certified Kubernetes Administrator (CKA)**, The Linux Foundation
+- **Microsoft Certified: DevOps Engineer Expert (AZ-400)**, Microsoft
 
 ## Tools I work with
 
