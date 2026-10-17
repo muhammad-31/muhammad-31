@@ -2,9 +2,10 @@
 
 **DevOps & Cloud Engineer · Certified Kubernetes Administrator (CKA) · Microsoft Certified: DevOps Engineer Expert (AZ-400)**
 
-I build and run production infrastructure for healthcare and banking teams:
-AWS and Terraform, Kubernetes with GitOps, CI/CD pipelines that scan every
-change before it ships, and monitoring that alerts on what users actually feel.
+I build and run production infrastructure for a healthcare platform, and
+automate data pipelines and audit analytics in banking. My focus: AWS and
+Terraform, Kubernetes with GitOps, CI/CD pipelines that scan every change
+before it ships, and monitoring that alerts on what users actually feel.
 
 ## Featured projects
 
